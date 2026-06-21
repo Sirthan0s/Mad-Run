@@ -1,5 +1,6 @@
 #  ⚛ MAD RUN
-![Uploading mad-run-hero.png…]()
+![Uploading image.png…]()
+
 
 > **Mad Easy on Cosmos Hackathon — June 2026**  
 > Built on Cosmos Hub · AI-assisted · Single-file playable prototype
