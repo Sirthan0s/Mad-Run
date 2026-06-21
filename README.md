@@ -7,7 +7,7 @@
 
 ## 🎮 Play Now
 
-👉 **[Play MAD RUN] https://sirthan0s.github.io/Mad-Run/mad_run_final.html
+👉 https://sirthan0s.github.io/Mad-Run/mad_run_final.html
 
 ---
 
