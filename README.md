@@ -1,5 +1,4 @@
 #  ⚛ MAD RUN
-![Uploading image.png…]()
 
 
 > **Mad Easy on Cosmos Hackathon — June 2026**  
